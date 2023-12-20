@@ -43,11 +43,11 @@ hr {
     }
 
     .lista-rodape__link:hover{
-        color: var(--cinza-claro);
+        color: var(--laranja);
     }
    
    .lista-rodape__link:hover:active{
-       color: var(--laranja);
+       color: var(--branco);
    }
    
 }
